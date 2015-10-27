@@ -2,6 +2,7 @@
 it's a demo project to learn iOS 9 3D Touch 
 
 本專案沒有任何版權疑慮， 歡迎使用/修改
+
 this project just free right. you can do anything you want.
 
 這是一個學習3D Touch用的APP Project.
